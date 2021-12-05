@@ -7,17 +7,17 @@
 - 주제 : 영화 추천 사이트
 - 목적 : 사람들에게 영화를 추천함으로써, 재미있는 영화를 감상할 수 있도록 도와줍니다.
 - 동기 : 요즘 재미있는 영화를 찾아볼 수 없어서 재미있는 영화를 찾아보고 사람들이 이 영화를 봤으면 좋겠다는 생각에 만들어보게 되었습니다.
-
+***
 ## 개발 환경
 - Windows 10 (64bit)
 - Java SE 1.8 (Java Ver.8)
 - Apache Tomcat 9
 - oracle
 - html/css
-
+***
 ## DB구조
 ![스크린샷 2021-12-04 오후 12 53 07](https://user-images.githubusercontent.com/53985471/144695942-365592df-3957-4849-b66c-00226e010b2a.png)
-
+***
 ## 실행 결과
 - 1.로그인 페이지<br>
 ![login](https://user-images.githubusercontent.com/53985471/144695981-3ea79d6d-3014-4724-a38f-531a3709a17d.png)
@@ -45,7 +45,6 @@
 
 - 9.나의 관심 영화 페이지<br>
 ![myMovie](https://user-images.githubusercontent.com/53985471/144696127-fb8f25e1-e8c0-49fa-a6b6-40d721254df8.png)
-
-
+***
 # 상세한 내용은 깃허브내의 PPT 및 소스코드를 참고해주세요.
 
